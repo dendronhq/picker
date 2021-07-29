@@ -1,5 +1,5 @@
 {
-  "name": "rc-picker",
+  "name": "@dendronhq/rc-picker",
   "version": "2.5.14",
   "description": "React date & time picker",
   "keywords": [
